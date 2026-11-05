@@ -1,0 +1,4 @@
+# MediaPipe's classic "solutions" API was removed in newer releases, so pin a version that has it.
+mediapipe>=0.10.9,<0.10.22
+opencv-python>=4.8
+numpy>=1.24
